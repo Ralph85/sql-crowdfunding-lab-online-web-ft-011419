@@ -1,4 +1,4 @@
-INSERT INTO users (id, name, age) VALUES
+INSERT INTO users (id, name, age) VALUES 
 (1, "James", 18),
 (2, "Willis", 33),
 (3, "Iris", 29),
@@ -20,7 +20,7 @@ INSERT INTO users (id, name, age) VALUES
 (19, "Aaron", 41),
 (20, "Wally", 21);
 
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES 
 (1, "Start a band", "music", 15000, "2015-11-05", "2018-12-05"),
 (2, "Donate my car", "charity", 3500, "2019-01-01", "2019-02-01"),
 (3, "Playing piano at the pub", "music", 1500, "2019-05-08", "2019-06-08"),
@@ -32,7 +32,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (9, "The new fire and ice", "books", 30, "2017-09-11", "2018-02-11"),
 (10, "Toys for tots", "charity", 1200, "2018-11-25", "2018-12-25");
 
-INSERT INTO pledges (id, amount, user_id, project_id) VALUES
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES 
 (1, 5000, 2, 4),
 (2, 300, 1, 2),
 (3, 30 , 4, 4),

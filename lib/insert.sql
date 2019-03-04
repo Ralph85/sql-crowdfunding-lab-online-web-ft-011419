@@ -2,7 +2,7 @@ INSERT INTO users (id, name, age) VALUES
 (1, "James", 18),
 (2, "Willis", 33),
 (3, "Iris", 29),
-(4, "Kaitline" 29),
+(4, "Kaitline", 29),
 (5, "Oliver", 25),
 (6, "Esther", 58),
 (7, "Lucy", 37),
